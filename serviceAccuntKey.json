@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pallav-chatgpt-messenger",
+  "private_key_id": "cd27e7141aef5ad39eca694153e87c214a252a0a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMRv2QfJCFAiQT\nuKumP1yKeFBIWSRw8d3mKnOLHm0k173yUlbsmRa8ldocNJCSf1TolU8GVCbmQ/QY\nGoETZIIqzuiIwIW/nvdOnvarwJr9z0jHJNp1QvxXmUwal9MR1cak99bSHRP3SrML\nMczyg4+8+qDbJxQxB8X7aczXXqLlRPXG58k1GAnyDAZVLW08BEeGfRVtAqF+Nic8\n4JxmaRNSYKBEvOOMuR2vcjkBAXw+MSu+b0T4YZ7ojdbKa3djjnuXP5HWXxv7OoNx\nzyba0cS5N4lDeopwCerIL+yGHtA40nYnD9IatK5Ka33/hAN/yrX8cJcUvV4rwNjb\nqR9974+FAgMBAAECggEADn8/QYDFlNrpColBjUPT4nPVZr0EzAsuL0Z1+rqHDmVN\nMqRLTPE0Xt/XocbNN8hXk0X9XLqeJBtQeGFxJZotbrJOaF4ZX9b9QBQh92Bs33RV\neuSPqGC/ncvgTcbWkN52AYEhOrobj6I6gKHhJJjXm5bB0au9UBl4IHaKtgIeV1zj\n4AR9WyQu6/4K24OuzL6VJsxOHGcCzZeBhhhqcdMACQLYy8jxv2eafypTKJHB16zn\n4NwW2jRv75K18cshoWppphamApFfL5WgPlyl/ohPO+539RlfhWFczoOJD/KMw4SN\n2JsUx3Bv7cVtF2Z4lFYPCzGE5p2aSc5THaYI1RcSxQKBgQD9KnsiFetf3ZH066R7\nnWiJY2dX1TzMaZ2ALIL2ZUfUSEaPKQKlVBoBs/imxFVavGGiDvX6v9wen8P963R1\nop1bGSFWuBv2fY080sHCtFeido2YqYGQWp9ARx7854Q3gQ9EfKEWCiCtfmv/am74\neqqmw0r8glCRkvaNpKtNqkJJqwKBgQDOkGe7yGYR0wiwni4pkt0HNjbhfw1gI2K0\nhB9Pr3psAhJ7TfCmc41WEHSnmV4dIowGpL4Nmnrs4ajLI0SJn0D9PPy0eUfWrFze\ne45jz2JQQx7a4jlzr1H/OHJwR+8oJ0KKfp+JH1FFpJGHO8Xy7BnftUpd2nJ5S8C4\nh5CI8co7jwKBgAy0ihNu2C4qd328KbgOcUWb2H7e87sqfb4F/diRwqYTrn7Wxww3\nCUsWlh8AcWwpUhkI+S1JXamnyPVAUMrqi00cGME6YiTfrivkQ9cap98+ZeLIdvkg\noyddql902vzSHEsKmib6ASPT2WWrGMCdn1zZJjU/8P0tS/RV1EcEiWkbAoGAAjGW\naHAgZWAQX4/OfbKJlmIFAzAOPE8j5Tbh/j6m1i7Pc2/IdnwTrC5QjtcaIMUVJ5zo\nR8y0MX/UAxREzhFa51WWeXQwRx9dfR9iy7yQFrofwcNVSN07ybIXxQl+iLaiBkaB\n+zrR6iNtSDpiR8oqHC4YtBZ10MP1MACAkHPA6hECgYEA9Y+82xO9PqBO8V+Edhih\nU1BvGsKspOtANOLxUthojJROOqKfe7QZN4AOzuvBtBn43hJjYOY53VkdSP9u1uOQ\nVMmNYZFQ+1Ed9e5+/t90GKgLsFREM+x+mMkJEAeSUVOh0OTl/ro9MfDNKUOL6xyi\n3wUEQ3YLT1T5p3zNvJ3kbkw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7mid8@pallav-chatgpt-messenger.iam.gserviceaccount.com",
+  "client_id": "112544034656230420966",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7mid8%40pallav-chatgpt-messenger.iam.gserviceaccount.com"
+}
